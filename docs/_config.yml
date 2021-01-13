@@ -33,11 +33,13 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 aux_links:
-  "Home": "/white-label-starter"
+  "Home": "/"
   "Github": "https://github.com/LookaApp/white-label-starter"
   "Looka.com": "https://looka.com"
 
 # Build settings
+logo: "https://s3.amazonaws.com/cdn.looka.com/images/logos/looka_logo_black.svg"
+heading_anchors: false
 theme: just-the-docs
 plugins:
   - jekyll-feed
