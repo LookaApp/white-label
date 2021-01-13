@@ -7,7 +7,7 @@ nav_order: 10
 # White Label Logo Maker
 
 <div class="code-example" markdown="1">
-Thanks for your interest in Looka’s white label logo maker. Our white label logo maker is a flexibile, easy to use branding solution that works in a variety of applications. You can use this documentation to learn about the white label, and test it out in your app.
+Thanks for your interest in Looka’s white label logo maker. Our white label logo maker is a flexibile, easy to use branding solution that works in a variety of applications. You can use this documentation to learn about the white label, and test it out in your app. This is a test.
 
 ### Contents
 
