@@ -14,17 +14,19 @@ We're going to describe what integrating the white label entails. This section w
 
 ### Concepts
 
-For the purpose of this documentation there’s three pieces we’ll refer to.
+For the purpose of this documentation there’s five pieces we’ll refer to.
+
+If it helps, you can use this diagram to help think of the first four concepts.![Looka White Label](diagram.jpg)
 
 **Hosting App (HA)** - This is your app! Your users will access the white label through your app. This means that they’ll never have to leave your domain and can have a cohesive experience that increases the value of your brand in their eyes. The Hosting App loads the white label logo maker. The hosting app is responsible for its own user auth and for payment processing (if you’re selling logos).
 
 **Hosting App Service (HAS)** - This is a backend service hosted on your servers. It can be configured as part of your current backend service or as a standalone function. The purpose of the hosting app service is to store your unique app shared secret and use it to fetch authentication tokens from our White Label Service (see below), and to signal to our White Label Service when purchases have been made.
 
-**White Label Configuration (WLC)** - this is a JSON object that describes how the white label should be customized so that it looks just the way you’d like. You can specify your logo, brand colors,  URLs for routing customers back to your app, among other things. We’ll set up your configuration with you after you’ve registered. This is when we’ll configure your unique shared secret.
-
 **White Label Service (WLS)** - this is a backend service that we provide so that you can authenticate your users with us, and to indicate to us when logos have been purchased or downloaded. You cannot communicate with the WLS through a client side app, it must be through a backend service or serverless function.
 
 **White Label App (WLA)** - this is the white label logo maker with your custom configuration loaded into it.
+
+**White Label Configuration (WLC)** - this is a JSON object that describes how the white label should be customized so that it looks just the way you’d like. You can specify your logo, brand colors,  URLs for routing customers back to your app, among other things. We’ll set up your configuration with you after you’ve registered.
 
 ### White label integration
 
