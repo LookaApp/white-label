@@ -8,22 +8,22 @@ nav_order: 40
 
 This tutorial walks you through running the white label locally and how to integrate it in your app.
 
-If you'd rather read about how the white label integration works, then check out the technical description. 
+If you'd rather read about how the white label integration works, then check out the [technical description](https://docs.looka.com/technical). 
 
 ### Getting started
 
-Our white label starter app is hosted on Github. Clone the demo code and follow the instructions in the README. You should have everything running locally in about 10 minutes. Click through the app, choose a logo, edit it, and click "buy" when you're happy.
+Our white label demo app is hosted on [Github](https://github.com/LookaApp/white-label). To get started, clone the repo and follow the instructions in the README. You should have everything running locally in about 10 minutes. Click through the app, choose a logo, edit it, and click "buy" when you're happy.
 
-The code is straightforward, so open up your favorite text editor and follow along in the code as you step through the app. The code consists of two main pieces.
+The code is straightforward, so open up your favorite text editor and follow along in the code as you work through the app. The code consists of two main pieces.
 
-* The **hosting app** (called HA in technical description). This loads the White Label App (WLA) and handles the purchase event. You'll find it in the folder hostingapp/.
+* The **hosting app** (called HA in [technical description](https://docs.looka.com/technical)). This loads the White Label App (WLA) and handles the purchase event. You'll find it in the folder hostingapp/.
 * The **hosting app service** (called HAS in technical description). This makes authentication and purchase requests to the White Label Service (WLS). You'll find it in the folder hostingapi/.
 
 Both of these can serve as models for your integration. You can implement these in any language you want and with almost any app framework. We're happy to provide guidance if you need it.
 
 
 ### Limitations of the white label demo app
-This white label starter is meant to help you test out integrating the white label in your app. It is not meant to be used in a production environment. Please only use it to test integrations and demo internally. The demo white label logo maker only generates three different logos. If you want to see the full range of what you'll have access to after registering your white label please visit looka.com/onboarding and look at our production app. The white label logo maker also only generates generic assets. We don't think these limitations will affect your ability to test and demo the logo maker in any way. If these do create an issue please contact us and we'll help you sort it out. Thanks for your understanding.
+This white label demo is meant to help you test out integrating the white label in your app. *It is not meant to be used in a production environment*. Please only use it to test integrations and demo internally. The demo white label logo maker only generates three different logos. If you want to see the full range of what you'll have access to after registering your white label please visit looka.com/onboarding and look at our production app. The white label logo maker also only generates generic assets. We don't think these limitations will affect your ability to test and demo the logo maker in any way. If these do create an issue please contact us and we'll help you sort it out. Thanks for your understanding.
 
 
 ### API docs
@@ -120,8 +120,8 @@ router.post("/purchaseLogo/:logoId", async (ctx) => {
 
 ### What's next?
 
-* Contact us to register your white label or talk about plans and pricing.
-* We're always happy to receive feedback on our white label github page.
-* Look at the FAQ for more information
+* <a href="mailto:partnerships@looka.com">Contact us</a> to register your white label or talk about [plans and pricing](https://docs.looka.com/pricing).
+* We're always happy to receive feedback on our white label [github page](https://github.com/LookaApp/white-label/issues).
+* Look at the [FAQ](https://docs.looka.com/faq) for more information
 
 
