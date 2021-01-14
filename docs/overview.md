@@ -13,6 +13,8 @@ Before we get to that if you don't want to read anything and just want to test o
 
 A white label logo maker is when you run Looka's best in class logo maker on your site, with your branding. This allows you to offer your customers better service and increase brand loyalty while only costing a fraction of the cost of developing the logo maker yourself. At Looka, we've invested millions of dollars into our logo maker since we launched in 2016. We're proud of it too. We're the best ranked logo maker on Trustpilot with over 9,000 reviews. We run a profitable business, and we're passionate about continuing to improve our logo maker to maintain our best in class status. Through white labelling you can benefit from all the lessons we've learned and the development we've done.
 
+![Rapid Logo Maker](rapid-logo-maker.png)
+
 ### Who is a good white label partner?
 
 Despite the benefits of White labelling,  it isn't for everyone. A lot of our partners thrive as [affiliate partners](https://looka.com/affiliate). An affiliate partnership might be right for you if your site traffic is less than 1K unique visitors per month. There are always exceptions however. If you're not sure whether affilaite or white labelling is right for you, please reach out to partnerships@looka.com.

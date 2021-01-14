@@ -6,13 +6,15 @@ nav_order: 50
 
 # Pricing
 
-We offer 2 pricing models based on how you’d like to use our white-label logo maker.
+We offer 2 pricing models based on how you’d like to use our white-label logo maker:
 
 ---
 
 <div class="code-example" markdown="1">
 
-## If you're looking to re-sell logo packages 
+## If you're looking to re-sell logo packages... 
+
+These plans might make sense if you're a website builder, domain host, or an automated design service, among other things.
 
 ### Billed annually *(save 50%)*
 
@@ -37,7 +39,9 @@ We offer 2 pricing models based on how you’d like to use our white-label logo 
 
 <div class="code-example" markdown="1">
 
-## If you’re looking to add a logo generator in your app or service
+## If you’re looking to add a logo generator within your app or service...
+
+These plans might be right for you if you're a design agency, small business service provider, or provide any type of design service to clients.
 
 ### Billed annually *(save 40%)*
 
@@ -57,6 +61,12 @@ We offer 2 pricing models based on how you’d like to use our white-label logo 
 | One-time set-up fee: | $10,000     | $10,000        | $0             |
 
 </div>
+
+---
+
+## Not sure which plan is right for you?
+
+Reach out to us at <partnerships@looka.com> and we'd be happy to find the right fit for you.
 
 ---
 
