@@ -59,7 +59,9 @@ nav_order: 70
 <details>
     <summary>Do you offer customer support with your white-label?</summary>
 
-    <p>We do offer customer support for an additional monthly fee. Please reach out to us at <a href="mailto:partnerships@looka.com">partnerships@looka.com</a> for more info.</p>
+    <p>Our customer support team consists of talented graphic designers who would assist your end users with using the logo maker, as well as any design-related requests (eg. tweaks to their logo design).</p> 
+    <p>Our white-label logo maker includes 48-hour customer support by default. 24-hour customer support is available for an additional $1,000/month.</p> 
+    <p>Please reach out to us at <a href="mailto:partnerships@looka.com">partnerships@looka.com</a> for more info.</p>
 </details>
 
 ---
