@@ -24,7 +24,7 @@ ga_tracking: UA-37702167-22 # See https://pmarsceill.github.io/just-the-docs/doc
 title: Looka White Label
 email: partnerships@looka.com
 description: >- # this means to ignore newlines until "baseurl:"
-Need a white label logo maker on your site? Try Looka’s best-in-class logo maker. Rated 9/10 by 9,000+ customers. Flexible & customizable for your unique business.
+  Need a white label logo maker on your site? Try Looka’s best-in-class logo maker. Rated 9/10 by 9,000+ customers. Flexible & customizable for your unique business.
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

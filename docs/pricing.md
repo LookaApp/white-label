@@ -14,7 +14,7 @@ We offer 2 pricing models based on how you’d like to use our white-label logo 
 
 ## If you're looking to re-sell logo packages... 
 
-These plans might make sense if you're a website builder, domain host, or an automated design service, among other things.
+These plans might make sense if you're a website builder, domain host registrar, or an automated design service (among other things), and you'd like to include logo packages as part of your overall offering.
 
 ### Billed annually *(save 50%)*
 
@@ -41,14 +41,14 @@ These plans might make sense if you're a website builder, domain host, or an aut
 
 ## If you’re looking to add a logo generator within your app or service...
 
-These plans might be right for you if you're a design agency, small business service provider, or provide any type of design service to clients.
+These plans might be right for you if you're a design agency, small business service provider, or provide any type of design service to clients and want a logo generator to help with ideation.
 
 ### Billed annually *(save 40%)*
 
 | **Plan**             | **Starter** | **Premium**    | **Custom**     |
 |----------------------|-------------|----------------|----------------|
 | Monthly fee:         | $2,000      | $7,500         | Contact us     |
-| Monthly logo cap:    | 100         | 500            | 100+           |
+| Monthly logo cap:    | 100         | 500            | 500+           |
 | One-time set-up fee: | $0          | $0             | $0             |
 
 
@@ -57,7 +57,7 @@ These plans might be right for you if you're a design agency, small business ser
 | **Plan**             | **Starter** | **Premium**    | **Custom**     |
 |----------------------|-------------|----------------|----------------|
 | Monthly fee:         | $2,500      | $10,000        | Contact us     |
-| Monthly logo cap:    | 100         | 500            | 100+           |
+| Monthly logo cap:    | 100         | 500            | 500+           |
 | One-time set-up fee: | $10,000     | $10,000        | $0             |
 
 </div>
@@ -72,6 +72,6 @@ Reach out to us at <partnerships@looka.com> and we'd be happy to find the right 
 
 ## Are you a new business?
 
-If you’re a new business with lifetime revenue less than $500K and have raised less than $100K in funding, you can apply for our **Startup Package**. This reduces your one-time set-up fee to $2,000 and we can determine a monthly fee better suited to your expected volume.
+If you’re a new business with lifetime revenue less than $500,000 and have raised less than $100,000 in funding, you can apply for our **Startup Package**. This reduces your one-time set-up fee to $2,000 and we can determine a monthly fee better suited to your expected volume.
 
 To apply, please contact us at <partnerships@looka.com>.

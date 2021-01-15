@@ -17,15 +17,24 @@ nav_order: 70
 
     <p>From there, our team will work with you to configure the white-label on your site and we’ll also set-up billing.</p>
 
-    <p>Once that’s all done, you’re all set to launch your new logo maker!</p>
+    <p>Once that’s all done, we'll help you successfully launch your new logo maker!</p>
 </details>
 
 ---
 
 <details>
-    <summary>What can I customize?</summary>
+    <summary>What can I customize in the white-label?</summary>
 
     <p>Our logo maker is flexible and you’ll be able to customize the URL, typefaces, logo, and colors so that it matches perfectly with your site or app.</p>
+
+</details>
+
+---
+
+<details>
+    <summary>What files come with the logo packages?</summary>
+
+    <p>Each logo package comes with multiple high-res file types (PNG, EPS, SVG, PDF) as well as multiple color variations (black, white, color, and transparent backgrounds).</p>
 
 </details>
 
