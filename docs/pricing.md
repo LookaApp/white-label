@@ -6,72 +6,12 @@ nav_order: 50
 
 # Pricing
 
-We offer 2 pricing models based on how you’d like to use our white-label logo maker:
+We offer various pricing plans based on how you’d like to use our white-label logo maker. Whether want to sell logos, offer them as a value add to your customers, or use the logo generator for design ideation, we'll work with you to find a solution that works for your business.
 
 ---
 
-<div class="code-example" markdown="1">
+## Get in touch with us ##
 
-## If you're looking to re-sell logo packages... 
+Send us an email at <partnerships@looka.com>
 
-These plans might make sense if you're a website builder, domain host registrar, or an automated design service (among other things), and you'd like to include logo packages as part of your overall offering.
-
-### Billed annually *(save 50%)*
-
-| **Plan**              | **Starter** | **Premium**    | **Custom**     |
-|-----------------------|-------------|----------------|----------------|
-| Monthly fee:          | $1,000      | $2,500         | Contact us     |
-| Monthly logo packages:| 30          | 100            | 100+           |
-| One-time set-up fee:  | $0          | $0             | $0             |
-
-
-### Billed monthly
-
-| **Plan**              | **Starter** | **Premium**    | **Custom**     |
-|-----------------------|-------------|----------------|----------------|
-| Monthly fee:          | $1,200      | $3,000         | Contact us     |
-| Monthly logo packages:| 30          | 100            | 100+           |
-| One-time set-up fee:  | $10,000     | $10,000        | $0             |
-
-</div>
-
----
-
-<div class="code-example" markdown="1">
-
-## If you’re looking to add a logo generator within your app or service...
-
-These plans might be right for you if you're a design agency, small business service provider, or provide any type of design service to clients and want a logo generator to help with ideation.
-
-### Billed annually *(save 40%)*
-
-| **Plan**             | **Starter** | **Premium**    | **Custom**     |
-|----------------------|-------------|----------------|----------------|
-| Monthly fee:         | $2,000      | $7,500         | Contact us     |
-| Monthly logo cap:    | 100         | 500            | 500+           |
-| One-time set-up fee: | $0          | $0             | $0             |
-
-
-### Billed monthly
-
-| **Plan**             | **Starter** | **Premium**    | **Custom**     |
-|----------------------|-------------|----------------|----------------|
-| Monthly fee:         | $2,500      | $10,000        | Contact us     |
-| Monthly logo cap:    | 100         | 500            | 500+           |
-| One-time set-up fee: | $10,000     | $10,000        | $0             |
-
-</div>
-
----
-
-## Not sure which plan is right for you?
-
-Reach out to us at <partnerships@looka.com> and we'd be happy to find the right fit for you.
-
----
-
-## Are you a new business?
-
-If you’re a new business with lifetime revenue less than $500,000 and have raised less than $100,000 in funding, you can apply for our **Startup Package**. This reduces your one-time set-up fee to $2,000 and we can determine a monthly fee better suited to your expected volume.
-
-To apply, please contact us at <partnerships@looka.com>.
+We look forward to hearing from you!
